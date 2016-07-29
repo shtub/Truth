@@ -1,7 +1,9 @@
-# truth
+# Truth
 
 Q: Which is better, the truth or a ham sandwich?
 
 A: A ham sandwich, because nothing is better than the truth, and a ham sandwich is better than nothing.
 
-Sample tests are in t/
+Sample tests are in `t/`.  
+
+Static web pages [can be found here](http://shtub.github.io/Truth/).
