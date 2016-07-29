@@ -1,0 +1,6 @@
+{
+  "name": "Truth",
+  "tagline": "The truth shall set you free. -- John 8:32",
+  "body": "## truth\r\n\r\nQ: Which is better, the truth or a ham sandwich?\r\n\r\nA: A ham sandwich, because nothing is better than the truth, and a ham sandwich is better than nothing.\r\n\r\nSample tests are in `t/`\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
